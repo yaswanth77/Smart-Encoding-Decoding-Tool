@@ -60,7 +60,3 @@ python smart_encoder_decoder.py [text] [--method base64|url|html]
 ## Contributing
 
 Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
-
-## License
-
-This project is open-source and available under the MIT License.
