@@ -52,7 +52,7 @@ python smart_encoder_decoder.py [text] [--method base64|url|html]
 ## How it works
 
 1. The script analyzes the input to determine if it looks like encoded text (Base64, URL, or HTML).
-2. It suggests an appropriate action (encode or decode) based on the analysis.
+2. It suggests an appropriate action (encode or decode) based on the analysis
 3. The user can confirm the suggested action or choose a different one.
 4. If no method is specified, the user can choose the encoding/decoding method.
 5. The script performs the selected operation and displays the result.
